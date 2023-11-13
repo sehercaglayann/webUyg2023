@@ -7,4 +7,4 @@ const register=async(reg,res)=>{
     console.log(req.body)
 }
 
-module.exports={login,register}//yol kullanım yüzdesi 
+module.exports={login,register}
